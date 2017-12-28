@@ -19,7 +19,7 @@ setup(
                        'configparser==3.5.0',
                        'jsonschema==2.5.1',
                        'enum34==1.1.6',
-                       'Pillow==2.9.0'],
+                       'Pillow'],
     packages=find_packages(),
     license="Apache 2.0",
     scripts=['scripts/clarifai'],
